@@ -1,0 +1,15 @@
+.Weather {
+  padding: 20px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+}
+
+h1 {
+  color: #776d8a;
+}
+h2 {
+  color: #e8ded2;
+}
+li {
+  list-style-type: none;
+}

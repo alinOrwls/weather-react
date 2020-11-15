@@ -1,17 +1,15 @@
 import React from "react";
-
+import ReactDOM from "react-dom";
 import Weather from "./Weather";
 import './App.css';
+import "./Weather.css";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      
-       <h1>hello world!!</h1>
-       <Weather city="Mexico" />
+    
+       <Weather  />
         
-      </header>
     </div>
   );
 }
