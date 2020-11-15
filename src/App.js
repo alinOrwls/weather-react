@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import React from "react";
-import axios from 'axios';
+
 import Weather from "./Weather";
 import './App.css';
 
